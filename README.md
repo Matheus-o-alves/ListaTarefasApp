@@ -1,8 +1,10 @@
 <h1> Lista de Tarefas App </h1>
-<p> Crud criado com Node Js e MongoDb
+<p> Crud completo criado com Node Js e MongoDb
+ Create, Read, Update e Delete.
 
  </p>
-
+<p><strong>Create, Read, Update e Delete.
+ </strong>  </P>
 
 </p>
 <p align="center">

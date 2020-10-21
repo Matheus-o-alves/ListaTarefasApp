@@ -13,7 +13,7 @@
 
 
 <h1> Informações </h1>
-<p> Para iniciar o projeto digite na pasta raiz: npm run dev </p>
+<p> Para iniciar o projeto entre na pasta raiz através do terminal e digite: npm run dev </p>
 <h1><strong>Tecnologias<strong></h1>
  
 * HTML 5

@@ -13,8 +13,11 @@
 
 
 <h1> Informações </h1>
-*  Para iniciar o projeto entre na pasta raiz através do terminal e digite: npm run dev 
+* Para iniciar o projeto entre na pasta raiz através do terminal e digite: npm run dev 
 * Abra o browser de sua preferencia e digite o seguinte caminho http://localhost:3000/ 
+
+
+
 <h1><strong>Tecnologias<strong></h1>
  
 * HTML 5

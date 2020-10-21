@@ -11,6 +11,9 @@
   <img src="https://user-images.githubusercontent.com/65368831/96757312-a300b500-13ab-11eb-9fae-6c0a0107d6da.gif" width="800" />
 </p>
 
+
+<h1> Informações </h1>
+<p> Para iniciar o projeto digite na pasta raiz: npm run dev </p>
 <h1><strong>Tecnologias<strong></h1>
  
 * HTML 5

@@ -18,7 +18,7 @@
   
   <h1>Ferramentas utilizadas</h1>
 
-*MongoDB
+* MongoDB
 
 * EJS
 
